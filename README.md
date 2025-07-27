@@ -1,4 +1,5 @@
-# 🚴‍♂️ My Bike - Landing PageA modern, responsive landing page for an online bike store. The website showcases various bike models and provides essential contact information for potential customers.
+# 🚴‍♂️ My Bike - Landing Page
+A modern, responsive landing page for an online bike store. The website showcases various bike models and provides essential contact information for potential customers.
 - 🔗 [Live Demo – My Bike](https://naz4ik.github.io/My-landing/)
 ## ✨ Features
 
